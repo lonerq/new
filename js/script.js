@@ -2168,7 +2168,7 @@ const Spark = {
 
 
 const soundManager = {
-    baseURL: 'http://new.wizm.cn/video/',
+    baseURL: 'https://lonerq.github.io/new/video/',
     ctx: new(window.AudioContext || window.webkitAudioContext),
     sources: {
         lift: {
